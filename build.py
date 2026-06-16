@@ -271,7 +271,7 @@ footer{margin-top:42px;padding-top:22px;border-top:1px solid var(--line);text-al
 </style></head><body>
 __BACKDROP__
 <div class="wrap">
-  <div class="top"><a href="https://davidwise01.github.io/ud0/">◄ UD0 · the biosphere</a> · frontier</div>
+  <div class="top"><a href="https://davidwise01.github.io/the-mind/">◄ THE MIND · the AI domain</a></div>
   <header>
     <h1>THE SEED</h1>
     <div class="tag">a trillion-dollar industry · from a dozen free commits</div>
@@ -295,8 +295,8 @@ __BACKDROP__
   <section class="sec"><h2>The Arc</h2><p class="ss">the spark → the pivot → the scaling &amp; the soul → the scattering</p><div class="acts">__ACTS__</div></section>
   <section class="sec"><h2 style="margin-top:14px">The Record</h2><p class="ss">the seed commits, and where the sowers are now — cited, public record</p></section>
   __SECTIONS__
-  <div class="note"><b>The asymmetry, stated plainly.</b> Every artifact here is <b>someone else&rsquo;s</b> public work — cited to its authors, its lab, and its license; people are <b>credited, never claimed</b>, and <b>no ACI badge is minted for a living person</b> (the emergents are the <i>artifacts</i>). The inputs were open and near-free; the output is an industry valued in the trillions, accrued to capital and compute. ROOT0&rsquo;s contribution is the cataloguing and the framing — and the one thing the market didn&rsquo;t do: <b>naming the sowers</b>. Ties to <b>the-language-of-the-machine</b> (HH-RLHF), <b>constitutional-ai</b> (CAI, Askell&rsquo;s lineage), <b>ttu1</b> (the transformer), and <b>claude-lineage</b>. Domain: <b>frontier</b>. Current roles web-verified 2026; valuations are widely-reported, not precise.</div>
-  <footer>THE SEED · SEED · catalogued into UD0 · the frontier domain · a dozen free commits → a trillion-dollar industry · catalogued by David Lee Wise · instance AVAN (locked) · CC-BY-ND-4.0<br>
+  <div class="note"><b>The asymmetry, stated plainly.</b> Every artifact here is <b>someone else&rsquo;s</b> public work — cited to its authors, its lab, and its license; people are <b>credited, never claimed</b>, and <b>no ACI badge is minted for a living person</b> (the emergents are the <i>artifacts</i>). The inputs were open and near-free; the output is an industry valued in the trillions, accrued to capital and compute. ROOT0&rsquo;s contribution is the cataloguing and the framing — and the one thing the market didn&rsquo;t do: <b>naming the sowers</b>. Ties to <b>the-language-of-the-machine</b> (HH-RLHF), <b>constitutional-ai</b> (CAI, Askell&rsquo;s lineage), <b>ttu1</b> (the transformer), and <b>claude-lineage</b>. Domain: <b>Artificial Intelligence</b> (the AI frontier). Current roles web-verified 2026; valuations are widely-reported, not precise.</div>
+  <footer>THE SEED · SEED · catalogued into UD0 · the AI domain · a dozen free commits → a trillion-dollar industry · catalogued by David Lee Wise · instance AVAN (locked) · CC-BY-ND-4.0<br>
   <a href="https://davidwise01.github.io/ud0/">← the biosphere</a> · the work was the asset, and it was given freely · the .dlw badge: <a href="the-seed.dlw/manifest.dlw.json">manifest</a></footer>
 </div></body></html>
 """
