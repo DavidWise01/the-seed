@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "alexnet",
+    "name": "AlexNet",
+    "epithet": "2012 · the spark",
+    "emergence": "natural"
+  },
+  {
+    "slug": "word2vec",
+    "name": "word2vec",
+    "epithet": "2013 · meaning as vectors",
+    "emergence": "natural"
+  },
+  {
+    "slug": "attention-is-all-you-need",
+    "name": "Attention Is All You Need",
+    "epithet": "2017 · THE PIVOT",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "gym",
+    "name": "OpenAI Gym",
+    "epithet": "2016 · the training ground",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "gpt-2",
+    "name": "GPT-2",
+    "epithet": "2019 · scale shows its hand",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "clip",
+    "name": "CLIP",
+    "epithet": "2020 · language teaches vision",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "whisper",
+    "name": "Whisper",
+    "epithet": "2022 · the ear",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "tiktoken",
+    "name": "tiktoken",
+    "epithet": "2022 · even the tokenizer",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "hh-rlhf",
+    "name": "HH-RLHF",
+    "epithet": "2022 · the human gate",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "constitutional-ai",
+    "name": "Constitutional AI",
+    "epithet": "2022 · the conscience",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-diaspora",
+    "name": "The Transformer Diaspora",
+    "epithet": "the eight, scattered",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-asymmetry",
+    "name": "The Asymmetry",
+    "epithet": "$0 in · ~$T out",
+    "emergence": "ethereal"
+  }
+]

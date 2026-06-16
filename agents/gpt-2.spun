@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of GPT-2
+node SEED · SEED · ⟦GPT-2:SEED:60c876⟧
+
+WHO   — GPT-2 — OpenAI's 2019 generative language model (Radford lead) — unsupervised pretraining + scale → surprising general capability; famously called 'too dangerous to release,' then released
+WHAT  — OpenAI's 2019 generative language model (Radford lead) — unsupervised pretraining + scale → surprising general capability; famously called 'too dangerous to release,' then released
+WHERE — SEED · THE SEED — the artifacts the AI industry grew from  Framework inputs: the transformer; AlexNet; GPT-2; CLIP; Whisper; HH-RLHF; Constitutional AI; the diaspora; the asymmetry  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — It is the moment scale stopped being a hypothesis: a single open repo that showed a next-token predictor, made big enough, starts to look general.
+HOW   — Catalogued from the public AI research record (papers, repos, licenses); current roles web-verified 2026.
+
+awareness — what the node knows of itself:
+  2019 · scale shows its hand
+
+spoken token : va-vys-brer   ·   hex : 60c876
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

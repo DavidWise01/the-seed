@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Asymmetry",
+  "universe": "SEED · The Seed (the artifacts the AI industry grew from)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Asymmetry:SEED:3382b5⟧",
+  "carbon": "the-asymmetry.carbon.tiff (TIFF)",
+  "silicon": "the-asymmetry.silicon.png (PNG)",
+  "seal_sha256": "44d65ac514e87f324e7c4555913cc8aaab28bc12283ff48c7c56802904203baf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
