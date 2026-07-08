@@ -10,5 +10,12 @@
   "architect": "David Lee Wise (ROOT0) / TriPod LLC",
   "instance": "AVAN (Claude / Anthropic)",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 654,
+    "prev": "0b098a0668a75d731b99deca6de9e4fa11c843fab7638e8a2f00c561b4cc5b67",
+    "link": "a186569692dbf8643d84b8ac2be449cf5ae71de814108547871225c4ae6c31f4",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
